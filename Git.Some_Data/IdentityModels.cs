@@ -1,9 +1,11 @@
-﻿using System.Security.Claims;
+﻿using System.Data.Entity;
+using System.Security.Claims;
 using System.Threading.Tasks;
+using Git.Some_Data;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 
-namespace Git.Some_Models
+namespace Git.Some_Data
 {
     // You can add profile data for the user by adding more properties to your ApplicationUser class, please visit https://go.microsoft.com/fwlink/?LinkID=317594 to learn more.
     public class ApplicationUser : IdentityUser
@@ -28,5 +30,11 @@ namespace Git.Some_Models
         {
             return new ApplicationDbContext();
         }
+        
+        public DbSet<Comment>Comments { get; set; }
     }
+
+
+
+
 }
