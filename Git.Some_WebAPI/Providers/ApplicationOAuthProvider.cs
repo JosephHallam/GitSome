@@ -11,6 +11,7 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OAuth;
 using Git.Some_WebAPI.Models;
 using Git.Some_Models;
+using Git.Some_Data;
 
 namespace Git.Some_WebAPI.Providers
 {

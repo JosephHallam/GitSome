@@ -5,6 +5,7 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Git.Some_WebAPI.Models;
 using Git.Some_Models;
+using Git.Some_Data;
 
 namespace Git.Some_WebAPI
 {
