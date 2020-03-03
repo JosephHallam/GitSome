@@ -64,5 +64,15 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Git.Some_Data\Git.Some_Data.csproj">
+      <Project>{98645C14-0440-4C33-B4F2-F237ABF0CB3B}</Project>
+      <Name>Git.Some_Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Git.Some_Models\Git.Some_Models.csproj">
+      <Project>{4288CB06-4C13-4417-B2E2-CDFF9752EE7F}</Project>
+      <Name>Git.Some_Models</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

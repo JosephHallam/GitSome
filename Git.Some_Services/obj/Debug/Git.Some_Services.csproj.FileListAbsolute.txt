@@ -13,3 +13,6 @@ C:\ElevenFiftyProjects\DotNetProjects\Git.Some_Services\obj\Debug\Git.Some_Servi
 C:\ElevenFiftyProjects\DotNetProjects\Git.Some_Services\obj\Debug\Git.Some_Services.csproj.CopyComplete
 C:\ElevenFiftyProjects\DotNetProjects\Git.Some_Services\obj\Debug\Git.Some_Services.dll
 C:\ElevenFiftyProjects\DotNetProjects\Git.Some_Services\obj\Debug\Git.Some_Services.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Git.Some\Git.Some_Services\obj\Debug\Git.Some_Services.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\Git.Some\Git.Some_Services\obj\Debug\Git.Some_Services.dll
+C:\ElevenFiftyProjects\DotNetProjects\Git.Some\Git.Some_Services\obj\Debug\Git.Some_Services.pdb

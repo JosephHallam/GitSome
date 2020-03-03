@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Git.Some_Data
 {
-    class Comment
+    public class Comment
     {
     }
 }
